@@ -1,7 +1,6 @@
 ### <h1 align="center">Всем привет 👋, меня зовут Никита!</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=02F755&lines=Начинающий фронтендер)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.demolab.com/?color=02F755&lines=Начинающий фронтендер)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=58F7AE&width=435&lines=%D0%9D%D0%B0%D1%87%D0%B8%D0%BD%D0%B0%D1%8E%D1%89%D0%B8%D0%B9+%D1%84%D1%80%D0%BE%D0%BD%D1%82%D0%B5%D0%BD%D0%B4%D0%B5%D1%80)](https://git.io/typing-svg)
 
 <!--
 **nlog675/nlog675** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
